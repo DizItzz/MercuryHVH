@@ -1,2 +1,2 @@
 # MercuryHVH
-https://wwww.MercuryHVH.cf
+https://www.mercuryhvh.cf
