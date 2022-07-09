@@ -1,5 +1,5 @@
 $(function() {
-    var tKillNames = ["Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064", "Dizitzz#7064"];
+    var tKillNames = ["! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064", "! Dizitzz#7064"];
     var ctKillNames = ["Rac.#0001"]; 
     var weapons = ["ssg", "deagle", "awp", "g3sg1"];
     var $killFeedContainer = $('.kill-feed');

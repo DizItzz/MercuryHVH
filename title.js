@@ -1,19 +1,24 @@
 var i=0;
 setInterval(function(){
     var titles=[
-"|D|",
-"|Di|",
-"|Diz|",
-"|Dizi|",
-"|Dizit|",
-"|Dizitz|",
-"|Dizitzz|",
-"|Dizitz|",
-"|Dizit|",
-"|Dizi|",
-"|Diz|",
-"|Di|",
-"|D|",
+"|M|",
+"|Me|",
+"|Mer|",
+"|Merc|",
+"|Mercu|",
+"|Mercur|",
+"|Mercury|",
+"|MercuryH|",
+"|MercuryHv|",
+"|MercuryHvH|",
+"|MercuryHv|",
+"|MercuryH|",
+"|Mercur|",
+"|Mercu|",
+"|Merc|",
+"|Mer|",
+"|Me|",
+"|M|",
 ]
 
     if(i===titles.length) {
